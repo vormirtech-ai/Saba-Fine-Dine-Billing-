@@ -3,7 +3,7 @@
 This is the whole product. There is nothing to compile and nothing to
 download: no `npm install`, no build step, no framework, no dependencies.
 
-> **The website is not the till.** https://vormirtech-ai.github.io/SABA-FINE-DINE/
+> **The website is not the till.** https://vormirtech-ai.github.io/Saba-Fine-Dine-Billing-/
 > is a demonstration that runs inside a browser tab, because GitHub Pages
 > serves static files and a till is a server with a database. What goes in
 > the restaurant is this repository, on one computer in the back office.
@@ -34,7 +34,7 @@ RUNNING IT — THE SHORT VERSION
   1. Put it on that computer, somewhere permanent — not the desktop and
      not Downloads. A folder like  C:\Saba  or  /opt/saba  is right.
 
-         git clone https://github.com/vormirtech-ai/SABA-FINE-DINE.git saba
+         git clone https://github.com/vormirtech-ai/Saba-Fine-Dine-Billing-.git saba
          cd saba
 
      No internet on the till? Download the ZIP from the repository's green

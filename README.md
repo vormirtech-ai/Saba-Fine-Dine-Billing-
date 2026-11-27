@@ -16,7 +16,7 @@
 >
 > ### Looking at it first
 >
-> **[The website](https://vormirtech-ai.github.io/SABA-FINE-DINE/)** — what it
+> **[The website](https://vormirtech-ai.github.io/Saba-Fine-Dine-Billing-/)** — what it
 > is, the guides, and a demonstration you can drive.
 >
 > That demonstration runs *inside your browser tab*, because GitHub Pages
@@ -67,10 +67,12 @@ there is one application and it fits.
 ## Try it without installing anything
 
 There is a demonstration on the web: the whole application, running against a
-till that lives in your browser tab.
+till that lives in your browser.
 
-> **[Open the demonstration →](https://vormirtech-ai.github.io/TBC-BILLING/saba/)**
-> Sign in as Manager with PIN 1379.
+> **[Open the demonstration →](https://vormirtech-ai.github.io/Saba-Fine-Dine-Billing-/demo/)**
+> Sign in as **Owner** with PIN **1379**, or as the captain (2471), the
+> manager (3582), a waiter (5814) or the kitchen (4693) to see how much of
+> the building each role is allowed to reach.
 
 It is built from this directory by `tools/build-site.mjs` and published by
 GitHub Pages. Every screen, every figure and every refusal is the product's
